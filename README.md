@@ -1,4 +1,4 @@
-<img src="abnormelodies-logo-plain-grey-600px.png" title="abnormelodies logo" alt="abnormelodies logo" width="300px">
+<img src="abnormelodies-logo-plain-grey-600px.png" title="abnormelodies logo" alt="abnormelodies logo" width="400px">
 
 # abnormelodies - API
 
