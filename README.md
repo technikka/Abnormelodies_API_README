@@ -1,4 +1,4 @@
-<img src="abnormelodies-logo-plain-trans-400px.png" title="abnormelodies logo" alt="abnormelodies logo" width="300px">
+<img src="abnormelodies-logo-plain-grey-600px.png" title="abnormelodies logo" alt="abnormelodies logo" width="300px">
 
 # abnormelodies - API
 
@@ -49,6 +49,8 @@ Version 1.0 implements these features:
 * Rules class currently implements 'Smooth Resolve'. When this rule is set to true, longer durations will be preferred near the end of the melody.
 * Beaming Service which determines where notes should be beamed together in notation, for easier display of the melody.
 * Clef class which currently selects Bass, Tenor, or Treble clef, for notation purposes.
+
+This project is currently the back-end for abnormelodies.com and so also validates CAPTCHA keys, stores user feedback in a database and implements a mailer to send feedback to the admin (me).
 
 
 ### What's Next
