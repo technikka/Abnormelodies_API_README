@@ -14,7 +14,7 @@ Currently I have this API in use with a react app front-end which provides a fun
 I'm not a learned musician nor did I have much knowledge of music theory before beginning this project. I think I gained enough of an understanding to accurately implement the 'rules' of music required by this project, but it should be considered a work-in-progress.
 
 
-#### Accessing The API
+### Accessing The API
 
 This API, though not publically available for use yet, can be interacted with through my react app: [abnormelodies.com](abnormelodies.com)
 
